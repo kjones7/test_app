@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "codeception/codeception": "^2.4",
+        "cboden/ratchet": "^0.4.1"
+    }
+}
